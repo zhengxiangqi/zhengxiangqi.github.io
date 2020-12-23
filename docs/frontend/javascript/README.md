@@ -18,8 +18,3 @@
 
 **相关文章**
 * [JavaScript](http://www.ruanyifeng.com/blog/javascript)
-
-<!-- **教程**
-* Javascript模块编写、压缩策略
-* 关注 promise、generator、async/await
-* Javascript几种操作符实现及手写：new、bind、call、apply -->

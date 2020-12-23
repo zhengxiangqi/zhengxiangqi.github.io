@@ -1,4 +1,5 @@
-# 知识点
+# 前端开发
+前端开发相关文章，包含相关职业规划及不同分类专题文章。
 
 * HTML/HTML5
 * CSS/CSS3
@@ -17,11 +18,11 @@
 * 浏览器多线程worker学习
 * http1.x、http2.x、https、socket标准tcp/udp，http状态码
 * Babel学习及Pollyfill方案学习
-* React深入学习及源码了解，Hooks多了解（React与Vue根据自己工作方向选择一个优先完成）
+* React深入学习及源码了解（React与Vue根据自己工作方向选择一个优先完成）
 * ReactRouter路由原理，几种路由方式区别
 * 常见React性能优化方案及学习
-* TDD（Test-Driven Development）的理念与实施方案
 * React单元测试
+* TDD（Test-Driven Development）的理念与实施方案
 * Redux深入学习及dva解析
 * TypeScript学习及抽空编写一个基础应用
 * Webpack学习，手写一个插件加深理解
@@ -36,8 +37,6 @@
 * 常见开发模式学习及其代表作：MVC、MVP、MVVM等
 * JS常用的设计模式学习与应用
 * JS常见算法及数据结构学习
-* NodeJS服务端开发框架学习及实现一个基础应用：ExpressJS、Koa、Fastify
-* Git常用命令学习：clone、init、add、commit、pull、push、fetch、reset、rebase、stash、status、branch、checkout、diff、log、merge、tag
 * Hybrid、ReactNative、Flutter技术了解
-* 针对一个项目，在项目初始阶段如何进行技术选型
+* 项目技术选型
 * 前后端沟通方式：api文档、数据结构定义、联调方式
