@@ -8,6 +8,7 @@
 
 **个人开源项目**
 * [ReactCron](https://github.com/zhengxiangqi/react-cron-antd)（基于React及Antd的cron时间表达式生成器）
-* [TemplateForReact](https://github.com/zhengxiangqi/TemplateForReact)（基于React的网页开发模板）
-* [TemplateForDocs](https://github.com/zhengxiangqi/TemplateForDocs)（基于Docsify的文档模板）
 * [DocsifyScrollToTop](https://github.com/zhengxiangqi/docsify-scroll-to-top)（基于Docsify的页面滚动回顶部的插件）
+* [TemplateForDocs](https://github.com/zhengxiangqi/TemplateForDocs)（基于Docsify的文档模板）
+* [TemplateForReact](https://github.com/zhengxiangqi/TemplateForReact)（基于React的网页开发模板）
+* [TemplateForDjango](https://github.com/zhengxiangqi/TemplateForDjango)（基于Django的服务端开发模板）
