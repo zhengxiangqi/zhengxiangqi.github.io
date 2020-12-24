@@ -1,6 +1,9 @@
 # JavaScript
 谈到Web，很自然就会联想到JS，想要做好Web前端开发，自然要掌握好JavaScript，这里推荐几个学习资料，都是个人觉得不错的，喜欢的可以去学习学习。
 
+**代码整洁：**
+* [Clean Code](/frontend/javascript/clean-code.md)
+
 **教程：**
 * [JavaScript教程](https://www.w3school.com.cn/js/index.asp)
 * [JavaScript教程（MDN）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
