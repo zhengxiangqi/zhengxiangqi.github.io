@@ -19,5 +19,5 @@
 * 深入理解react
 * 深入浅出nodejs
 
-**相关文章**
+**相关文章：**
 * [JavaScript](http://www.ruanyifeng.com/blog/javascript)
