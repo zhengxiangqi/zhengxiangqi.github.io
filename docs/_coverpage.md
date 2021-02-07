@@ -1,4 +1,4 @@
-<image src="/docs/assets/icon.png" style="width:100px;border-radius:50px;" />
+<image src="./docs/assets/icon.png" style="width:100px;border-radius:50px;" />
 
 # 个人博客 <small>1.0.0</small>
 
