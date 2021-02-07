@@ -4,11 +4,19 @@
 **开源社区**
 * [GitHub主页](https://github.com/zhengxiangqi)
 * [Gitee主页](https://gitee.com/zhengxiangqi)
-* [个人博客](https://zhengxiangqi.github.io)
+* [GitHub个人博客](https://zhengxiangqi.github.io)
+* [Gitee个人博客](http://zhengxiangqi.gitee.io/blog)
 
 **个人开源项目**
-* [ReactCron](https://github.com/zhengxiangqi/react-cron-antd)（基于React及Antd的cron时间表达式生成器）
-* [DocsifyScrollToTop](https://github.com/zhengxiangqi/docsify-scroll-to-top)（基于Docsify的页面滚动回顶部的插件）
-* [TemplateForDocs](https://github.com/zhengxiangqi/TemplateForDocs)（基于Docsify的文档模板）
-* [TemplateForReact](https://github.com/zhengxiangqi/TemplateForReact)（基于React的网页开发模板）
-* [TemplateForDjango](https://github.com/zhengxiangqi/TemplateForDjango)（基于Django的服务端开发模板）
+* GitHub
+  * [react-cron-antd](https://github.com/zhengxiangqi/react-cron-antd)（基于React及Antd的cron时间表达式生成器）
+  * [docsify-scroll-to-top](https://github.com/zhengxiangqi/docsify-scroll-to-top)（基于Docsify的页面滚动回顶部的插件）
+  * [template-for-docs](https://github.com/zhengxiangqi/template-for-docs)（基于Docsify的文档模板）
+  * [template-for-react](https://github.com/zhengxiangqi/template-for-react)（基于React的网页开发模板）
+  * [template-for-django](https://github.com/zhengxiangqi/template-for-django)（基于Django的服务端开发模板）
+* Gitee
+  * [react-cron-antd](https://gitee.com/zhengxiangqi/react-cron-antd)（基于React及Antd的cron时间表达式生成器）
+  * [docsify-scroll-to-top](https://gitee.com/zhengxiangqi/docsify-scroll-to-top)（基于Docsify的页面滚动回顶部的插件）
+  * [template-for-docs](https://gitee.com/zhengxiangqi/template-for-docs)（基于Docsify的文档模板）
+  * [template-for-react](https://gitee.com/zhengxiangqi/template-for-react)（基于React的网页开发模板）
+  * [template-for-django](https://gitee.com/zhengxiangqi/template-for-django)（基于Django的服务端开发模板）
